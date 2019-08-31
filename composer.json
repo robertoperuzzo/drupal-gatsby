@@ -20,7 +20,6 @@
         "drupal-composer/drupal-scaffold": "^2.0.1",
         "cweagans/composer-patches": "~1.0",
         "drush/drush": "~9.0",
-        "drupal/core": "^8.6",
         "drupal/console": "~1.0",
         "drupal/bootstrap": "^3.17",
         "drupal/google_analytics": "^3.0",
@@ -40,8 +39,7 @@
         "drupal/recaptcha": "^2.4",
         "drupal/permissions_filter": "~1.0",
         "drupal/easy_breadcrumb": "^1.8",
-        "drupal/iubenda_integration": "^2.0@beta",
-        "drupal/jsonapi": "^2.4"
+        "drupal/iubenda_integration": "^2.0@beta"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "~1.2",
@@ -53,7 +51,7 @@
         "drupal/stage_file_proxy": "~1.0",
         "drupal/devel": "^2.1",
         "behat/mink": "1.7.x-dev",
-        "webflo/drupal-core-require-dev": "~8.6.0"
+        "webflo/drupal-core-require-dev": "^8.7"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

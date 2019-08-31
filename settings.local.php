@@ -19,5 +19,5 @@ $config['config_split.config_split.config_live']['status'] = FALSE;
 
 // Trusted hosts.
 $settings['trusted_host_patterns'] = [
-  '^drupal\.docker\.localhost$',
+  '^gatsby\.docker\.localhost$',
 ];
