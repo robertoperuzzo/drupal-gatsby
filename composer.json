@@ -39,7 +39,9 @@
         "drupal/recaptcha": "^2.4",
         "drupal/permissions_filter": "~1.0",
         "drupal/easy_breadcrumb": "^1.8",
-        "drupal/iubenda_integration": "^2.0@beta"
+        "drupal/iubenda_integration": "^2.0@beta",
+        "drupal/jsonapi_extras": "^3.10",
+        "drupal/simple_oauth": "^3.16"
     },
     "require-dev": {
         "behat/mink-goutte-driver": "~1.2",
