@@ -1,0 +1,9 @@
+uuid: 3ca9737e-fd83-4463-8c4b-b2c3266698f9
+langcode: en
+status: true
+dependencies: {  }
+id: ga
+label: 'Gatsby Client'
+weight: 3
+is_admin: null
+permissions: {  }

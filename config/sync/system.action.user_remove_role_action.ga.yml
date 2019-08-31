@@ -1,0 +1,14 @@
+uuid: 38dd36d7-0acf-41e9-9fb8-cc31bce136f5
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.ga
+  module:
+    - user
+id: user_remove_role_action.ga
+label: 'Remove the Gatsby Client role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: ga
